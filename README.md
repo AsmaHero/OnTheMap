@@ -1,4 +1,4 @@
-# OnTheMapUpdate:
+# OnTheMap:
 ![ios](https://user-images.githubusercontent.com/48783969/59655094-cc02ab80-91a1-11e9-885c-94199339fc21.png)
 iOS Networking
 
